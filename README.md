@@ -40,7 +40,7 @@
 
 - Atualmente cursando Análise e Desenvolvimento de Sistemas
 - SENAI Suíço-Brasileira
-- Dev / Java - Spring Boot
+- Dev em evolução - Three.js / Java - Springboot
 
 ## Contato
 
